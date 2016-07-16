@@ -1,2 +1,2 @@
 # psychecube
-psychedelic video generator
+A Processing sketch to generate psychedelic video.
