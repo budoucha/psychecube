@@ -1,0 +1,2 @@
+# psychecube
+psychedelic video generator
